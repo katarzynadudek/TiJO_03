@@ -1,0 +1,1 @@
+var ProductDetailstCtrl = 'I am the controller!';
